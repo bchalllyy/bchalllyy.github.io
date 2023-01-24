@@ -10,7 +10,7 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 
 1. How many assignment points do you believe you completed (replace the *'s with your numbers)?
 
-*/15
+15/15
 - 1/1 Readme
 - 3/3 Basic HTML content
 - 3/3 Basic CSS styling
