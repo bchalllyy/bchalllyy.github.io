@@ -22,15 +22,15 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 2. What (a) basic features, (b) CSS features, and (c) advanced features did you include in your portfolio?
 
 (a) Basic features
-    Headers, Navigation Bar, Images, and buttons
+    Headers, Navigation Bar, Images, Use of Font Awesome and buttons
 
 
 (b) CSS features
-    Landing Splash Page, Content in Columns, Organization of page, properties for project boxes
+    Landing Splash Page, Padding/Margins, Content in Columns, Use of BootStrap for Organization of page and properties for project boxes
 
 
 (c) Advanced features
-    Aesthetic splash page that takes up entirety of screen regardless of viewport size with content being accessible once scrolling down
+    Aesthetic splash page that takes up entirety of screen regardless of viewport size with content being accessible once scrolling down, in addition to a fully functioning navigation bar that allows the user to skip directly to certain sections of the website.
 
 
 3. How long, in hours, did it take you to complete this assignment?
